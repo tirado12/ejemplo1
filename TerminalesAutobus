@@ -1,0 +1,52 @@
+{
+  "errorCode": 0, 
+  "errorString": "ok", 
+  "hotspots": [
+    {
+      "anchor": {
+        "geolocation": {
+      	  "lat": 17.0746939,
+          "lon": -96.7433603
+        }
+      },
+	"icon": {
+        "url": "https://raw.githubusercontent.com/tirado12/ejemplo1/master/IMG-20170930-WA0001.jpg"
+      }, 
+      "id": 1, 
+      "text": {
+        "title": "TERMINAL AU SANTA ROSA"
+      }
+    },
+    {
+      "anchor": {
+        "geolocation": {
+      	  "lat": 17.0813089,
+          "lon": -96.7359789
+        }
+      },
+	"icon": {
+        "url": "https://raw.githubusercontent.com/tirado12/ejemplo1/master/IMG-20170930-WA0002.jpg"
+      }, 
+      "id": 2, 
+      "text": {
+        "title": "TERMINAL SUR OAXACA"
+      }
+    },
+    {
+      "anchor": {
+        "geolocation": {
+      	  "lat": 17.0905592,
+          "lon": -96.7386182
+        }
+      },
+	"icon": {
+        "url": "https://raw.githubusercontent.com/tirado12/ejemplo1/master/IMG-20170930-WA0003.jpg"
+      }, 
+      "id": 3, 
+      "text": {
+        "title": "TERMINAL ADO OAXACA"
+      }
+    }], 
+     
+  "layer": "terminalesauu03o"
+}
