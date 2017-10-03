@@ -5,8 +5,8 @@
     {
       "anchor": {
         "geolocation": {
-          "lat": 52.3686716, 
-          "lon": 4.886032200000001
+          "lat": 17.067715, 
+          "lon": -96.737993
         }
       }, 
       "id": 1, 
@@ -17,12 +17,12 @@
     {
       "anchor": {
         "geolocation": {
-          "lat": 52.3686716, 
-          "lon": 4.9000322
+          "lat": 17.076683, 
+          "lon": -96.744548
         }
       }, 
       "icon": {
-        "url": "http://static.layar.com/media/content_media/113/ar-small-icon.png"
+        "url": ""
       }, 
       "id": 2, 
       "text": {
@@ -40,8 +40,8 @@
       ], 
       "anchor": {
         "geolocation": {
-          "lat": 52.3616716, 
-          "lon": 4.8930322
+          "lat": 17.067055, 
+          "lon": -96-740287
         }
       }, 
       "id": 3, 
