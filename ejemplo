@@ -1,0 +1,22 @@
+{
+  "errorCode": 0, 
+  "errorString": "ok", 
+  "hotspots": [
+    {
+      "anchor": {
+        "geolocation": {
+      	  "lat": 17.076738, 
+          "lon": -96.744529
+        }
+      },
+	"icon": {
+        "url": "http://nodogeek.com/wp-content/uploads/2010/01/ito-mx.png"
+      }, 
+      "id": 1, 
+      "text": {
+        "title": "tecnologico gggg"
+      }
+    }], 
+     
+  "layer": "estacionesf9dt"
+}
