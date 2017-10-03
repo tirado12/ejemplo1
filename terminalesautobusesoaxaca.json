@@ -29,7 +29,22 @@
       }, 
       "id": 2, 
       "text": {
-        "title": "TERMINAL SANTA ROSA AU"
+        "title": "TERMINAL DE AUTOBUSES ADO OAXACA"
+      }
+    },
+    {
+      "anchor": {
+        "geolocation": {
+      	  "lat": 17.0905592,
+          "lon": -96.7386182
+        }
+      },
+	"icon": {
+        "url": "https://raw.githubusercontent.com/tirado12/ejemplo1/master/IMG-20170930-WA0003.jpg"
+      }, 
+      "id": 3, 
+      "text": {
+        "title": "TERMINAL DE AUTOBUSES AU OAXACA"
       }
     }], 
      
