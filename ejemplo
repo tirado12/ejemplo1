@@ -5,8 +5,8 @@
     {
       "anchor": {
         "geolocation": {
-      	  "lat": 17.076738, 
-          "lon": -96.744529
+      	  "lat": 17.0812444, 
+          "lon": -96.744002
         }
       },
 	"icon": {
@@ -14,7 +14,7 @@
       }, 
       "id": 1, 
       "text": {
-        "title": "tecnologico gggg"
+        "title": "TERMINAL SANTA ROSA AU"
       }
     }], 
      
