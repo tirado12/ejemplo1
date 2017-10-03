@@ -1,0 +1,22 @@
+{
+  "errorCode": 0, 
+  "errorString": "ok", 
+  "hotspots": [
+    {
+      "anchor": {
+        "geolocation": {
+      	  "lat": 17.0778117,
+          "lon": -96.7440469
+        }
+      },
+	"icon": {
+        "url": "https://raw.githubusercontent.com/tirado12/ejemplo1/master/IMG-20170930-WA0001.jpg"
+      }, 
+      "id": 1, 
+      "text": {
+        "title": "TERMINAL SANTA ROSA AU"
+      }
+    }], 
+     
+  "layer": "estacionesf9dt"
+}
