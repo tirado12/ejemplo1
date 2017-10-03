@@ -5,8 +5,8 @@
     {
       "anchor": {
         "geolocation": {
-      	  "lat": 17.303456999999998, 
-	  "lon": -96.9197661
+      	  "lat": 17.0778117,
+          "lon": -96.7440469
         }
       },
 	"icon": {
@@ -14,8 +14,9 @@
       }, 
       "id": 1, 
       "text": {
-        "title": "TERMINAL DE AUTOBUSES AU SANTA ROSA"
+        "title": "TERMINAL SANTA ROSA AU"
       }
-    }
+    }], 
+     
   "layer": "teminalesautepba"
 }
