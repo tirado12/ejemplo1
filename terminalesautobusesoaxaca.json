@@ -14,9 +14,40 @@
       }, 
       "id": 1, 
       "text": {
-        "title": "TERMINAL SANTA ROSA AU"
+        "title": "TERMINAL AUTOBUSES AU SANTA ROSA"
       }
-    }], 
+    },
+    {
+      "anchor": {
+        "geolocation": {
+      	  "lat": 17.07781170002,
+          "lon": -96.7440469
+        }
+      },
+	"icon": {
+        "url": "https://raw.githubusercontent.com/tirado12/ejemplo1/master/IMG-20170930-WA0001.jpg"
+      }, 
+      "id": 2, 
+      "text": {
+        "title": "TERMINAL AUTOBUSES ADO OAXACA"
+      }
+    },
+    {
+      "anchor": {
+        "geolocation": {
+      	  "lat": 17.0778117001,
+          "lon": -96.7440469
+        }
+      },
+	"icon": {
+        "url": "https://raw.githubusercontent.com/tirado12/ejemplo1/master/IMG-20170930-WA0001.jpg"
+      }, 
+      "id": 3, 
+      "text": {
+        "title": "TERMINAL AUTOBUSES ADO OAXACA"
+      }
+    }
+  ], 
      
   "layer": "estacionesf9dt"
 }
