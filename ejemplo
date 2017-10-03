@@ -5,12 +5,12 @@
     {
       "anchor": {
         "geolocation": {
-      	  "lat": 17.0812444, 
-          "lon": -96.744002
+      	  "lat": 17.076766799999998, 
+          "lon": -96.74454750000001
         }
       },
 	"icon": {
-        "url": "http://nodogeek.com/wp-content/uploads/2010/01/ito-mx.png"
+        "url": "https://raw.githubusercontent.com/tirado12/ejemplo1/master/IMG-20170930-WA0001.jpg"
       }, 
       "id": 1, 
       "text": {
