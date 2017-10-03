@@ -5,8 +5,8 @@
     {
       "anchor": {
         "geolocation": {
-      	  "lat": 17.0778117,
-          "lon": -96.7440469
+      	  "lat": 17.07781170001,
+	  "lon": -96.7440469
         }
       },
 	"icon": {
@@ -14,7 +14,7 @@
       }, 
       "id": 1, 
       "text": {
-        "title": "TERMINAL AUTOBUSES AU SANTA ROSA"
+        "title": "TERMINAL DE AUTOBUSES AU SANTA ROSA"
       }
     },
     {
@@ -25,11 +25,11 @@
         }
       },
 	"icon": {
-        "url": "https://raw.githubusercontent.com/tirado12/ejemplo1/master/IMG-20170930-WA0001.jpg"
+        "url": "https://raw.githubusercontent.com/tirado12/ejemplo1/master/IMG-20170930-WA0002.jpg"
       }, 
       "id": 2, 
       "text": {
-        "title": "TERMINAL AUTOBUSES ADO OAXACA"
+        "title": "TERMINAL DE AUTOBUSES ADO OAXACA"
       }
     },
     {
@@ -40,11 +40,11 @@
         }
       },
 	"icon": {
-        "url": "https://raw.githubusercontent.com/tirado12/ejemplo1/master/IMG-20170930-WA0001.jpg"
+        "url": "https://raw.githubusercontent.com/tirado12/ejemplo1/master/IMG-20170930-WA0003.jpg"
       }, 
       "id": 3, 
       "text": {
-        "title": "TERMINAL AUTOBUSES ADO OAXACA"
+        "title": "TERMINAL DE AUTOBUSES SUR OAXACA"
       }
     }
   ], 
